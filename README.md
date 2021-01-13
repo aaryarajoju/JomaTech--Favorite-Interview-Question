@@ -1,6 +1,6 @@
 # JomaTech's Favourite Interview Question
 
-Question: You have a function `random` that generates a number from 0 to 1, randomly, and its uniformly distributed. Now, calculate the value of pi
+**Question**: You have a function `random` that generates a number from 0 to 1, randomly, and its uniformly distributed. Now, calculate the value of pi
 
 ---
 
