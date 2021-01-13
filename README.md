@@ -1,5 +1,11 @@
-# JomaTech--Favorite-Interview-Question
-JomaTech's favorite Interview Question
+# JomaTech's Favourite Interview Question
 
+Question: You have a function `random` that generates a number from 0 to 1, randomly, and its uniformly distributed. Now, calculate the value of pi
 
-YT video: https://www.youtube.com/watch?v=pvimAM_SLic
+---
+
+[@jomaoppa](https://github.com/jomaoppa)
+
+[Link](https://www.youtube.com/watch?v=pvimAM_SLic) to Joma's video
+
+---
