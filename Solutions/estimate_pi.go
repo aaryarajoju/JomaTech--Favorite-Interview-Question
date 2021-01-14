@@ -1,3 +1,5 @@
+// Estimate pi, given that you have random (0,1)
+
 package main
 
 import (
@@ -28,6 +30,5 @@ func estimatePi(n int) float64 {
 	}
 
 	var estimate float64 = (4 * (float64(numOfPointsCircle) / float64(numOfPointsTotal)))
-
 	return estimate
 }
